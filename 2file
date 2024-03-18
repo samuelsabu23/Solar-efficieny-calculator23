@@ -1,0 +1,3 @@
+mkdir gasbuddy-backend
+cd gasbuddy-backend
+npm init -y
